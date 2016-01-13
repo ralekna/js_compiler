@@ -1,0 +1,25 @@
+{
+  "name": "js_compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralekna/js_compiler.git"
+  },
+  "author": "Ryis Alekna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralekna/js_compiler/issues"
+  },
+  "homepage": "https://github.com/ralekna/js_compiler#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.6"
+  }
+}
